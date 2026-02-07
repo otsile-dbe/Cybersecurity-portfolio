@@ -27,8 +27,6 @@ This repository will gradually include:
 
 ## Learning Approach
 This portfolio prioritises:
-- Consistency over speed
-- Practical, hands-on learning
 - Clear documentation of technical work
 - Reflecting on lessons learned from labs and exercises
 
