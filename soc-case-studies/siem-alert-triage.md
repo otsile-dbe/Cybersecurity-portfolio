@@ -28,3 +28,6 @@ One alert initially flagged potential data exfiltration activity. Upon investiga
 ## Lessons Learned
 
 This exercise reinforced the importance of context in security operations. Alerts alone do not provide complete visibility, and accurate triage requires combining log analysis, identity awareness, and situational understanding. I learned that communication and verification are essential when determining whether activity is malicious or legitimate. Effective SOC work requires structured reasoning, evidence-based decisions, and clear escalation when indicators suggest compromise.
+
+<img width="2762" height="1428" alt="image" src="https://github.com/user-attachments/assets/2a0fb6cb-ca49-4903-91c9-65def44bdb68" />
+
